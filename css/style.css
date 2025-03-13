@@ -1,8 +1,8 @@
 /* Feel free to change me and make me your own! */
 
 body {
-  background-color: #edd8c3; 
-  font-family: Georgia, serif; 
+  background-color: #182b19; 
+  font-family: Arial, Helvetica, sans-serif 
 }
 
 article {
@@ -13,22 +13,27 @@ article {
 h1 {
   text-align: center; 
   font-size: 48px; 
+  color: antiquewhite;
 }
 
 h2 {
   font-size: 36px; 
+  color: antiquewhite;
 }
 
 p {
   text-align: center; 
   font-size: 20px; 
+  color: antiquewhite;
 }
 
 ul {
   font-size: 20px; 
   list-style-type: square; 
+  color: antiquewhite;
 }
 
 code {
  font-family: 'Courier New', monospace; 
+ color: greenyellow;
 }
